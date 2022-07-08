@@ -16,9 +16,10 @@
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
         android:width="24dp"
         android:height="24dp"
+        android:tint="@color/wave_homepage_icon_connected_device_color"
         android:viewportWidth="24.0"
         android:viewportHeight="24.0">
     <path
         android:pathData="M20.79,9.23l-2,-3.46l-4.79,2.77l0,-5.54l-4,0l0,5.54l-4.79,-2.77l-2,3.46l4.79,2.77l-4.79,2.77l2,3.46l4.79,-2.77l0,5.54l4,0l0,-5.54l4.79,2.77l2,-3.46l-4.79,-2.77z"
-        android:fillColor="?android:attr/colorAccent"/>
+        android:fillColor="?android:attr/colorPrimary"/>
 </vector>

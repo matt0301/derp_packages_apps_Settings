@@ -67,6 +67,7 @@ android_library {
         "androidx.appcompat_appcompat",
         "androidx.fragment_fragment-ktx",
         "androidx.cardview_cardview",
+        "androidx.fragment_fragment-ktx",
         "androidx.preference_preference",
         "androidx.recyclerview_recyclerview",
         "com.google.android.material_material",
